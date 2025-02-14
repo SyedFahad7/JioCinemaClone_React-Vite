@@ -1,0 +1,20 @@
+.shows{
+    width: 100%;
+    background-color: #060707;
+    padding: 10px 2%;
+}
+
+.showsParent{
+    width: 100%;
+    overflow: hidden;
+}
+
+
+
+.slick-dots {
+    bottom: -30px; /* Adjust the position of the dots */
+}
+
+.slick-dots li button:before {
+    color: white; /* Change the color of the dots */
+}
