@@ -1,0 +1,12 @@
+.featuredShow{
+    width: fit-content;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.featuredShow > img{
+    height: 100%;
+}

@@ -1,0 +1,11 @@
+.channels{
+    width: 100%;
+    background-color: #060707;
+    display: flex;
+    padding: 30px 8%;
+    justify-content: space-between;
+}
+
+.channels > img{
+    border-radius: 8px;
+}
